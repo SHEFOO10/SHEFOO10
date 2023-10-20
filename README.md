@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SHEFOO10&show_icons=true&locale=en&theme=dark" alt="Sherif Hamdy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHEFOO10&" alt="SHEFOO10" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHEFOO10&theme=dark" alt="SHEFOO10" /></p>
