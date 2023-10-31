@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sherifhamdy.dev@gmail.com**
 
-- ⚡ Fun fact **I will always be here even if I have passed away.**
+- ⚡ Fun fact **I will always be here even if I passed away.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
