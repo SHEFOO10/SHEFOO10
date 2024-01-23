@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sherif Hamdy</h1>
 <h3 align="center">Multi-Disciplinary Engineer and Pentester based in Egypt</h3>
 <br>
-<img align="right" width="400" src="https://camo.githubusercontent.com/31958d92a245e04676f16054e36ea1a945d657eeda47692eb2a0e46a28361372/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f522e62616638383336666462386437383566616238643737633232663433643766373f72696b3d3966795754414c39617559715367267069643d496d6752617726723d30">
+<img align="right" width="300" src="./giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shefoo10&label=Profile%20views&color=0e75b6&style=flat" alt="shefoo10" /> </p>
 
 - 👨‍💻 All of my projects are unavailable for now
