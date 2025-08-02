@@ -4,7 +4,7 @@
 <img align="right" width="300" src="./giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shefoo10&label=Profile%20views&color=0e75b6&style=flat" alt="shefoo10" /> </p>
 
-- 👨‍💻 All of my projects are unavailable for now
+- 👨‍💻 some of my projects are available on my [Portfolio](https://portfolio.sherifhamdy.tech)
 
 - 💬 Ask me about **Pentesting | Fullstack | DevOps operations**
 
