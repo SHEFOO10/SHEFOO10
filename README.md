@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sherif Hamdy</h1>
-<h3 align="center">Multi-Disciplinary Engineer and Pentester based in Egypt</h3>
+<h3 align="center">Multi-Disciplinary Engineer based in Egypt</h3>
 <br>
 <img align="right" width="300" src="./giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shefoo10&label=Profile%20views&color=0e75b6&style=flat" alt="shefoo10" /> </p>
