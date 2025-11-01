@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sherif Hamdy</h1>
 <h3 align="center">Multi-Disciplinary Engineer based in Egypt</h3>
-<h3 align="center">Certified Software Engineer by ALX</h3>
+<h4 align="center">Certified Software Engineer by ALX</h4>
 
 <br>
 <img align="right" width="300" src="./giphy.gif">
